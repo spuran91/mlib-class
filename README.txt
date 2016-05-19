@@ -1,5 +1,4 @@
 Name: spuran yarram
-id:800918987
 
 PACKAGES USED :
 NUMPY,SKLEARN,PANDAS
